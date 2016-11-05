@@ -1,0 +1,12 @@
+{
+  "name": "deployer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm --prefix ./local run windows_testing",
+    "start": "node deployer.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
